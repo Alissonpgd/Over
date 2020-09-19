@@ -57,8 +57,6 @@ export default function Login (){
                             <Image source={require(bd2)} />                    
                     </TouchableOpacity>
               </View>
-              
-              
         </ImageBackground>
       </View>
 
