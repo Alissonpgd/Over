@@ -12,6 +12,20 @@ export default StyleSheet.create({
       flex:1,
       alignItems:"center"
      },
+
+    /* login__msg: (text='none') => ({      
+      fontSize:22,
+      color:"#A60A0F", 
+      top:100,
+      marginBottom:15,
+      width:"100%",
+      height:50,
+      padding:10,
+      backgroundColor:"#ccc",
+      borderRadius:3 ,
+      display:text
+    }), */
+
     titulo:{
       margin:50,
       top:85,
